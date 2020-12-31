@@ -78,7 +78,7 @@
     "run-sequence": "1.2.2",
     "sequelize": "4.37.1",
     "sqlite3": "4.0.0",
-    "urijs": "1.19.1",
+    "urijs": "1.19.4",
     "winston": "2.4.1"
   },
   "devDependencies": {
