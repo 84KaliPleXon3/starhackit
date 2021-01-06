@@ -34,7 +34,7 @@
   },
   "browserslist": "last 2 versions, ie 11",
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "debug": "3.1.0",
     "glamor": "2.20.40",
     "glamorous": "4.12.1",
