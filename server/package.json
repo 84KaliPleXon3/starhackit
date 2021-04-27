@@ -74,7 +74,7 @@
     "pg-hstore": "2.3.2",
     "pm2": "2.10.1",
     "qs": "6.5.1",
-    "redis": "2.8.0",
+    "redis": "3.1.1",
     "run-sequence": "1.2.2",
     "sequelize": "4.37.1",
     "sqlite3": "4.0.0",
