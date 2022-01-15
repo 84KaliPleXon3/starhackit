@@ -98,7 +98,7 @@
     "raml2html": "3.0.0",
     "request": "2.85.0",
     "sequelize-cli": "4.0.0",
-    "shelljs": "0.8.1",
+    "shelljs": "0.8.5",
     "should": "13.2.1",
     "sinon": "4.4.6"
   },
