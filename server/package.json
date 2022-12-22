@@ -52,7 +52,7 @@
     "gulp-rimraf": "0.2.2",
     "gulp-util": "3.0.8",
     "jsonschema": "1.2.2",
-    "jsonwebtoken": "8.2.0",
+    "jsonwebtoken": "9.0.0",
     "kcors": "2.2.1",
     "koa": "2.5.0",
     "koa-66": "1.0.1",
